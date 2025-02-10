@@ -1,0 +1,50 @@
+# Basic Information 
+title: Patrick Parschan
+position: Ph.D. Candidate
+affiliation: Department of Media and Communication at LMU Munich
+affiliation_link: https://www.en.ifkw.uni-muenchen.de/index.html
+email: p.parschan(at)lmu.de
+
+# Search Engine Optimization (SEO)
+keywords: patrick parschan, parschan patrick, parschan, patrick schwabl, schwabl patrick, schwabl, patrick, natural language processing, political position, scaling, lmu, munich, lmu munich, ifkw
+canonical: https://www.ls1.ifkw.uni-muenchen.de/personen/wiss_ma/schwabl/index.html
+description: Patrick Parschan is a Ph.D. candidate at the chair for Computational Communication Research at LMU Munich. His research lies in natural language processing, word embeddings, and political communication.
+
+# The option is used to enable the MPI Informatics template.
+enable_mpi_logo: no
+
+# Links
+google_scholar: https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl
+# cv_link: https://files.yliu.me/Yaoyao_Liu_Curriculum_Vitae.pdf
+github_link: https://github.com/patschw
+linkedin: https://www.linkedin.com/in/patrick-parschan-schwabl-6b732a270/
+twitter: https://twitter.com/patrickparschan/
+
+# Images 
+avatar: https://www.ls1.ifkw.uni-muenchen.de/bilder/web_bilder_m/patrick.JPG
+# favicon: ./assets/img/favicon.png
+# favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnotes
+footnote: This website is based on the minimal light theme by Yaoyao Liu.
+footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my Google Analytics and ClustrMaps accounts.
+# google_analytics: UA-111540567-4
+# clustrmaps_link: //clustrmaps.com/globe.js?d=71dq8HjqihJEgSiwaSZovuMn_4gJE3ed9kCAdS0QjP0
+
+# General Data Protection Regulation (GDPR) information
+# If you don't need to add the GDPR information, you may remove the following lines.
+imprint: imprint.html
+data_protection: data_protection.html
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - minimal-light.gemspec
+  - CNAME
