@@ -7,8 +7,8 @@ email: p.parschan(at)lmu.de
 
 # Search Engine Optimization (SEO)
 keywords: patrick parschan, parschan patrick, parschan, patrick schwabl, schwabl patrick, schwabl, patrick, natural language processing, political position, scaling, lmu, munich, lmu munich, ifkw
-canonical: https://www.ls1.ifkw.uni-muenchen.de/personen/wiss_ma/schwabl/index.html
-description: Patrick Parschan is a Ph.D. candidate at the chair for Computational Communication Research at LMU Munich. His research lies in natural language processing, word embeddings, and political communication.
+canonical: https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/patrick_parschan/index.html
+description: Patrick Parschan is a Ph.D. researcher at the chair for Computational Communication Research at LMU Munich. His research lies in natural language processing, word embeddings, and political communication.
 
 # The option is used to enable the MPI Informatics template.
 enable_mpi_logo: no
@@ -16,8 +16,8 @@ enable_mpi_logo: no
 # Links
 google_scholar: https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl
 # cv_link: https://files.yliu.me/Yaoyao_Liu_Curriculum_Vitae.pdf
-github_link: https://github.com/patschw
-linkedin: https://www.linkedin.com/in/patrick-parschan-schwabl-6b732a270/
+github_link: https://github.com/patparsch
+linkedin: https://www.linkedin.com/in/patrick-parschan-6b732a270/
 twitter: https://twitter.com/patrickparschan/
 
 # Images 
