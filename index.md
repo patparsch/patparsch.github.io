@@ -217,7 +217,6 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://doi.org/10.1007/s42001-024-00283-6">Aligning agent-based testing (ABT) with the experimental research paradigm: a literature review and best practices</a></div>
-      <div class="title">Aligning agent-based testing (ABT) with the experimental research paradigm: a literature review and best practices</div>
       <div class="author"><strong><b>Patrick Schwabl</b>, Mario Haim, Julian Unkel</strong></div>
       <div class="periodical"><em> Journal of Computational Social Science, 7, 1625–1644 </em>
       </div>
