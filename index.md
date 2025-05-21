@@ -211,14 +211,29 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <ol class="bibliography">
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 5px;">
     <!--<img src=" ./assets/img/word_embeddings_for_survey_analysis.png" class="teaser img-fluid z-depth-1">
              <abbr class="badge">TPAMI</abbr> -->
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://doi.org/10.1007/s42001-024-00283-6">Aligning agent-based testing (ABT) with the experimental research paradigm: a literature review and best practices</a></div>
       <div class="author"><strong><b>Patrick Parschan</b>, Mario Haim, Julian Unkel</strong></div>
-      <div class="periodical"><em> Journal of Computational Social Science, 7, 1625–1644 </em>
+      <div class="periodical"><em> Journal of Computational Social Science (2024)</em>
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 5px;">
+    <!--<img src=" ./assets/img/word_embeddings_for_survey_analysis.png" class="teaser img-fluid z-depth-1">
+             <abbr class="badge">TPAMI</abbr> -->
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://doi.org/10.51685/jqd.2024.icwsm.8">"You are doomed!" Crisis-specific and Dynamic Use of Fear Speech in Protest and Extremist Radical Social Movements</a></div>
+      <div class="author"><strong>Mario Haim, Julian Unkel Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="periodical"><em>Journal of Quantitative Description: Digital Media (2024)</em>
       </div>
   </div>
 </div>
