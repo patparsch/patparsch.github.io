@@ -14,14 +14,14 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 - **Natural Language Processing:** transformers, contextualized word embeddings, multimodal embeddings
 - **Algorithmic Curation:** search engine results during elections, agent-based testing
 
-## News
+<!-- ## News
 
 - **[January 2024]** I participated in the Winter [Workshop on Complex Systems](https://wwcs2024.github.io/) in the Spanish Pyrenees.
 - **[September - October 2023]** I did a research stay in Jerusalem funded by the [Bavarian Research Alliance](https://www.bayfor.org/en/). Thank's a lot again!
 - **[June 2023]** - I went to ICA conference 2023 in Toronto and presented some of my work (see below).
 - **[May 2023]** - I went to Comptext conference 2023 in Glasgow and presented some of my work (see below).
 - **[April 2023]** I was awarded a scholarship (3000€ per year for 4 years) for my PhD project by the [Bavarian Research Institute for Digital Transformation](https://en.bidt.digital/). I will be part of the [bidt young talents program](https://www.bidt.digital/foerderprogramme/#graduate-center). 
-- **[April 2023]** I was awarded a scholarship (2000€) for a stay in Isreal by the [Bavarian Research Alliance](https://www.bayfor.org/en/). I will be in Israel in fall 2023.
+- **[April 2023]** I was awarded a scholarship (2000€) for a stay in Isreal by the [Bavarian Research Alliance](https://www.bayfor.org/en/). I will be in Israel in fall 2023. -->
 
 
 
