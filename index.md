@@ -47,11 +47,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <ol class="bibliography">
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/word_embeddings_for_survey_analysis.png" class="teaser img-fluid z-depth-1">
-            <!-- <abbr class="badge">TPAMI</abbr> -->
-  </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
       <div class="title">Python for Text-as-Data: Using Word Embeddings to Assess the Diversity of Election-Related Search Queries</div>
       <div class="author"><strong><b>Patrick Schwabl</b>, Valerie Hase</strong></div>
       <div class="periodical"><em>In Bernauer, J. &amp; Wohlmann, A. (eds.), Doing Quantitative Text Analysis with R: Scraping, Preparing, Visualising and Modelling Data. London: Sage, in press</em>
@@ -65,11 +61,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/google_paper.png" class="teaser img-fluid z-depth-1">
-            <!-- <abbr class="badge">TPAMI</abbr> -->
-  </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
       <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-658-38967-3_11">Vielfalt bei Google? Vielzahl, Ausgewogenheit und Verschiedenheit wahlbezogener Suchergebnisse [Diversity on Google? Multiplicity, balance and diversity of election-related search results]</a></div>
       <div class="author"><strong><b>Patrick Schwabl</b>, Julian Unkel, Mario Haim</strong></div>
       <div class="periodical"><em>In C. Holtz-Bacha (Ed.), Die (Massen-)Medien im Wahlkampf: Die Bundestagswahl 2021. Wiesbaden: Springer V, 2023</em>
@@ -96,7 +88,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <abbr class="badge">COMPTEXT25</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">Computational ideal point estimation using textual data: a systematic review of existing algorithms</div>
       <div class="author"><strong><b>Patrick Parschan</b>, Charlott Jakob</strong></div>
       <div class="periodical"><em>7th International Interdisciplinary Conference on the Quantitative and Computational Analysis of Text-, Image- and Video-as-Data (COMPTEXT), Vienna, 24–26 April 2025</em>
@@ -105,26 +97,13 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 </div>
 </li>
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-            <abbr class="badge">COMPTEXT25</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Don't Look Up: Evaluating the Tradeoff between Accuracy and Sustainability of LLMs for Text Analysis</div>
-      <div class="author"><strong>Sean Palicki, Isaac Bravo Lara, <b>Patrick Parschan</b>, Benjamin Bevis, Carl Claessen</strong></div>
-      <div class="periodical"><em>7th International Interdisciplinary Conference on the Quantitative and Computational Analysis of Text-, Image- and Video-as-Data (COMPTEXT), Vienna, 24–26 April 2025</em>
-      </div>
-  </div>
-</div>
-</li>
 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <abbr class="badge">ECREA24</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">A longitudinal analysis of crisis-specific fear speech use in radical and extremist social movements in 2020–2023</div>
       <div class="author"><strong>Heidi Schulze, Simon Greipl, Julian Hohner, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
       <div class="periodical"><em>10th European Communication Conference (ECREA), Ljubljana, 24–27 September 2024</em>
@@ -138,7 +117,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <abbr class="badge">ICA24</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">From Politics to Products: Identifying and Analyzing Advertisements in Far-Right Audio Media</div>
       <div class="author"><strong>Joshua Greenfield, Robert Dahlke, Josephine Lukito, <b>Patrick Parschan</b>, Maximilian Stecker, Daphne Walter</strong></div>
       <div class="periodical"><em>74th Annual Conference of the International Communication Association (ICA), Gold Coast, 20–24 June 2024</em>
@@ -152,7 +131,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <abbr class="badge">ICWSM24</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">"You are doomed!" — Crisis-specific and dynamic use of fear speech in protest and extremist radical social movements</div>
       <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
       <div class="periodical"><em>18th International AAAI Conference on Web and Social Media (ICWSM), Buffalo, 3–6 June 2024</em>
@@ -166,7 +145,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <abbr class="badge">COMPTEXT24</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">Echoes of the Reichstag? Decoding Populist Rhetoric Across Eras</div>
       <div class="author"><strong><b>Patrick Parschan</b>, Sean Palicki, Benjamin Bevis, Carl Claessen</strong></div>
       <div class="periodical"><em>6th International Interdisciplinary Conference on the Quantitative and Computational Analysis of Text-, Image- and Video-as-Data (COMPTEXT), Amsterdam, 2–4 May 2024</em>
@@ -180,7 +159,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <abbr class="badge">COMPTEXT24</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">"We are doomed!" Detection of Fear Speech as Radicalization Narrative in Far-Right Communication</div>
       <div class="author"><strong>Julian Hohner, Simon Greipl, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
       <div class="periodical"><em>6th International Interdisciplinary Conference on the Quantitative and Computational Analysis of Text-, Image- and Video-as-Data (COMPTEXT), Amsterdam, 2–4 May 2024</em>
@@ -194,7 +173,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <abbr class="badge">DGPuK24</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">More Crises, More Fear? A (Semi-)Automated Analysis of Fear Speech in the Online Discussions of Radical and Extremist Actors 2020–2022</div>
       <div class="author"><strong>Heidi Schulze, Simon Greipl, Julian Hohner, <b>Patrick Parschan</b></strong></div>
       <div class="periodical"><em>69. Jahrestagung der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft (DGPuK), Erfurt, 13–15 March 2024</em>
@@ -208,7 +187,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <abbr class="badge">CHOC23</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">A Little Less Hate, But a Lot More Harm — Fear Speech as Strategic Borderline Communication</div>
       <div class="author"><strong>Heidi Schulze, Simon Greipl, Julian Hohner, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
       <div class="periodical"><em>Conference on Harmful Online Communication (CHOC 2023), Cologne, 16–17 November 2023</em>
@@ -222,7 +201,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <abbr class="badge">ISD23</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">Zwischen Furcht und Feindseligkeit: Narrative Radikalisierungsangebote in Online-Gruppen</div>
       <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
       <div class="periodical"><em>Im toten Winkel — Rechtsextreme Radikalisierung im Netz, Berlin, September 2023, Institute for Strategic Dialogue (ISD)</em>
@@ -234,10 +213,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/abt_ica23.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICA23</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title"><a href="https://doi.org/10.17605/OSF.IO/UDYCH">From auditing to testing: Adequate experimental designs to study algorithmic content curation</a></div>
       <div class="author"><strong><b>Patrick Schwabl</b>, Mario Haim, Julian Unkel</strong></div>
       <div class="periodical"><em>73rd Annual International Communication Association Conference (73nd ICA Conference), Toronto, 25-29 May 2023 (Session 2311, Part 5)</em>
@@ -255,10 +233,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/comptext_23.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">COMPTEXT23</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title"><a href="https://doi.org/10.31235/osf.io/rb4sp">Computational scaling of political positions from textual data using word embeddings</a></div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
       <div class="periodical"><em>5th ANNUAL COMPTEXT Conference 2023, Glasgow, 12-13 May 2023 (Panel 17)</em>
@@ -275,10 +252,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/dgpuk_methoden_22.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">DGPuK Methods Conference 22</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title"><a href="https://doi.org/10.5281/zenodo.7308244">Do we need Multimodality? Experiments with Tweets from European Union Executives</a></div>
       <div class="author"><strong><b>Sina Özdemir, Patrick Schwabl</b></strong></div>
       <div class="periodical"><em>23. Tagung der Fachgruppe Methoden der Publizistik- und Kommunikationswissenschaft der DGPuK, Munich, Germany, 5-7 October 2022 (Session Panel: Visualisierung, Part 2)</em>
@@ -297,10 +273,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/tada_22.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">TADA22</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title"><a href="https://doi.org/10.5281/zenodo.7308196">Scaling latent political positions from textual data using word embeddings</a></div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
       <div class="periodical"><em>4th Text as Data Conference 2022, Cornell Tech, New York City, 6-7 October 2022 (Session A, Part 8)</em>
@@ -319,10 +294,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/ica_22.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICA22</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title"><a href="https://doi.org/10.5281/zenodo.7308072">Searching for biased information? Informational strategies and algorithmic curation</a></div>
       <div class="author"><strong><b>Patrick Schwabl</b>, Mario Haim, Julian Unkel</strong></div>
       <div class="periodical"><em>72nd Annual International Communication Association Conference (72nd ICA Conference), Paris, 26-30 May 2022 (Session 3226, Part 6)</em>
@@ -350,9 +324,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <ol class="bibliography">
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
-  </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
       <div class="title">Computational Measurement of Political Positions: A Review of Text-Based Ideal Point Estimation Algorithms</div>
       <div class="author"><strong><b>Patrick Parschan</b>, Charlott Jakob</strong></div>
       <div class="periodical"><em>Quality &amp; Quantity (under review)</em>
@@ -363,9 +335,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
-  </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
       <div class="title"><a href="https://doi.org/10.1007/s42001-024-00283-6">Aligning agent-based testing (ABT) with the experimental research paradigm: a literature review and best practices</a></div>
       <div class="author"><strong><b>Patrick Parschan</b>, Mario Haim, Julian Unkel</strong></div>
       <div class="periodical"><em>Journal of Computational Social Science, 7, 1625–1644 (2024)</em>
@@ -376,9 +346,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
-  </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
       <div class="title"><a href="https://doi.org/10.51685/jqd.2024.icwsm.8">"You are doomed!" Crisis-specific and Dynamic Use of Fear Speech in Protest and Extremist Radical Social Movements</a></div>
       <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
       <div class="periodical"><em>Journal of Quantitative Description: Digital Media, 4 (2024)</em>
@@ -396,9 +364,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <ol class="bibliography">
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
-  </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
       <div class="title">PolBiX: Detecting LLMs' Political Bias in Fact-Checking through X-phemisms</div>
       <div class="author"><strong>Charlott Jakob, David Harbecke, <b>Patrick Parschan</b>, Paul Wenzel, Verena Schmitt</strong></div>
       <div class="periodical"><em>63rd Annual Meeting of the Association for Computational Linguistics (ACL, under review)</em>
@@ -423,10 +389,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/nlp_munich_napoko.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">Talk</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">How (not) to measure political positions using contextual word embeddings in multi-party systems</div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
       <div class="periodical"><em>Presented to NLP Munich <a href="https://munich-nlp.github.io/">NLP Munich</a>, 20 April 2023</em>
@@ -443,10 +408,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/nlp_munich_napoko.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">Talk</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">How (not) to measure political positions using contextual word embeddings in multi-party systems</div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
       <div class="periodical"><em>Presented at Lunchbreak event of the <a href="http://napoko.de/">Junior Scholar Network Political Communication (NaPoKo)</a>, 18 April 2023</em>
@@ -464,10 +428,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/bert_attention.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">MA</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title"><a href="https://epub.uni-regensburg.de/46308/">Classifying user information needs in cooking dialogues – an empirical performance evaluation of transformer networks </a></div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
       <div class="periodical"><em>Master's Thesis, University of Regensburg, 2021, Supervised by <a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/bernd-ludwig/index.html">Prof. Bernd Ludwig</a> and <a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/david-elsweiler/index.html">Dr. David Elsweiler</a></em>
@@ -485,10 +448,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/tiebout-1.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">BA</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title"><a href="https://doi.org/10.5281/zenodo.7515125">Voting-with-the-feet: Eine Analyse des Tiebout-Modells mittels Agenten-basierter Modellierung [Voting-with-the-feet: an analysis of the Tiebout model using agent-based modeling] </a></div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
       <div class="periodical"><em>Bachelor's Thesis, University of Regensburg, 2019, Supervised by <a href="https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/politikwissenschaft/institut/lehrkraft-besondere/index.html">Dr. Maximilian Grasl</a> and <a href="https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/methoden-politikwissenschaft/walter-rogg/index.html">Prof. Dr. Melanie Walter-Rogg</a></em>
@@ -507,10 +469,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/lmu_tau.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">Talk</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">Political position scaling with word representations (from contextualized word embeddings)</div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
       <div class="periodical"><em>Presentation at the workshop on AI-Humanity-Society hosted by <a href="https://www.lmu.de/de/index.html">LMU Munich</a> and <a href="https://english.tau.ac.il/">TAU University</a>, 05-09 December 2022</em>
@@ -528,10 +489,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/bidt_sprint_review.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">Talk</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">Algorithmische Biases in Suchmaschinen im Bundestagswahlkampf 2021 [Algorithmic biases in search engines during the German federal election 2021]</div>
       <div class="author"><strong><b>Patrick Schwabl,  Julian Unkel, Mario Haim</b></strong></div>
       <div class="periodical"><em>Presented at the sprint review of the <a href="https://en.bidt.digital/">Bavarian Research Institute for Digital Transformation</a>, 21 September 2021</em>
