@@ -409,7 +409,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ### Other
 
-I co-host and organize a in-person **coding club** (aka computational exchange on wednesday) three times every term. Among others, we've talked about topics like code style, word embeddings, docker, or data donations in the past. We are very open topic-wise, and also alway welcome new faces! If you live in Munich or are around and interested in Computational Social Science, drop me an Email (p.schwabl@lmu.de)
+I co-host and organize the in-person **[Computational Exchange on Wednesday](computational_exchange.html)** coding club at LMU. See the dedicated page for details, past sessions, and how to join.
 
 ## Funding and scholarships
 

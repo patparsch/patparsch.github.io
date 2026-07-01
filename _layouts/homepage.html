@@ -132,6 +132,13 @@
       </header>
       <section>
 
+      <nav class="site-nav" aria-label="Main navigation">
+        <ul>
+          <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' or page.url == '/index.html' %} class="active"{% endif %}>Home</a></li>
+          <li><a href="{{ '/computational_exchange.html' | relative_url }}"{% if page.url contains 'computational_exchange' %} class="active"{% endif %}>Computational Exchange</a></li>
+        </ul>
+      </nav>
+
       {{ content }}
 
       <br>
