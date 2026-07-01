@@ -36,6 +36,63 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ## Publications
 
+### Journal papers
+
+<div class="publications">
+<ol class="bibliography">
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
+      <div class="title"><a href="https://doi.org/10.1007/s11135-025-02500-4">Computational measurement of political positions: a review of text-based ideal point estimation algorithms</a></div>
+      <div class="author"><strong><b>Patrick Parschan</b>, Charlott Jakob</strong></div>
+      <div class="periodical"><em>Quality &amp; Quantity, 60, 5663–5690 (2026)</em>
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
+      <div class="title"><a href="https://doi.org/10.1007/s42001-024-00283-6">Aligning agent-based testing (ABT) with the experimental research paradigm: a literature review and best practices</a></div>
+      <div class="author"><strong><b>Patrick Parschan</b>, Mario Haim, Julian Unkel</strong></div>
+      <div class="periodical"><em>Journal of Computational Social Science, 7, 1625–1644 (2024)</em>
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
+      <div class="title"><a href="https://doi.org/10.51685/jqd.2024.icwsm.8">"You are doomed!" Crisis-specific and Dynamic Use of Fear Speech in Protest and Extremist Radical Social Movements</a></div>
+      <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="periodical"><em>Journal of Quantitative Description: Digital Media, 4 (2024)</em>
+      </div>
+  </div>
+</div>
+</li>
+
+</ol>
+</div>
+
+### Conference proceedings
+
+<div class="publications">
+<ol class="bibliography">
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
+      <div class="title"><a href="https://doi.org/10.18653/v1/2025.findings-emnlp.932">PolBiX: Detecting LLMs' Political Bias in Fact-Checking through X-phemisms</a></div>
+      <div class="author"><strong>Charlott Jakob, David Harbecke, <b>Patrick Parschan</b>, Pia Wenzel Neves, Vera Schmitt</strong></div>
+      <div class="periodical"><em>Findings of the Association for Computational Linguistics: EMNLP 2025, pages 17192–17210, Suzhou, China (2025)</em>
+      </div>
+  </div>
+</div>
+</li>
+</ol>
+</div>
+
 ### Book chapters
 
 <!-- <h2 id="publications" style="margin: 2px 0px -15px;">Publications<temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">
@@ -312,69 +369,6 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 </ol>
 </div>
-
-
-<!-- ### Preprints -->
-
-
-
-### Journal papers
-
-<div class="publications">
-<ol class="bibliography">
-<li>
-<div class="pub-row">
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
-      <div class="title">Computational Measurement of Political Positions: A Review of Text-Based Ideal Point Estimation Algorithms</div>
-      <div class="author"><strong><b>Patrick Parschan</b>, Charlott Jakob</strong></div>
-      <div class="periodical"><em>Quality &amp; Quantity (under review)</em>
-      </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
-      <div class="title"><a href="https://doi.org/10.1007/s42001-024-00283-6">Aligning agent-based testing (ABT) with the experimental research paradigm: a literature review and best practices</a></div>
-      <div class="author"><strong><b>Patrick Parschan</b>, Mario Haim, Julian Unkel</strong></div>
-      <div class="periodical"><em>Journal of Computational Social Science, 7, 1625–1644 (2024)</em>
-      </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
-      <div class="title"><a href="https://doi.org/10.51685/jqd.2024.icwsm.8">"You are doomed!" Crisis-specific and Dynamic Use of Fear Speech in Protest and Extremist Radical Social Movements</a></div>
-      <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
-      <div class="periodical"><em>Journal of Quantitative Description: Digital Media, 4 (2024)</em>
-      </div>
-  </div>
-</div>
-</li>
-
-</ol>
-</div>
-
-### Conference proceedings (under review)
-
-<div class="publications">
-<ol class="bibliography">
-<li>
-<div class="pub-row">
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
-      <div class="title">PolBiX: Detecting LLMs' Political Bias in Fact-Checking through X-phemisms</div>
-      <div class="author"><strong>Charlott Jakob, David Harbecke, <b>Patrick Parschan</b>, Paul Wenzel, Verena Schmitt</strong></div>
-      <div class="periodical"><em>63rd Annual Meeting of the Association for Computational Linguistics (ACL, under review)</em>
-      </div>
-  </div>
-</div>
-</li>
-</ol>
-</div>
-
 
 ### Other
 
