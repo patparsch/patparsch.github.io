@@ -54,7 +54,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">Python for Text-as-Data: Using Word Embeddings to Assess the Diversity of Election-Related Search Queries</div>
       <div class="author"><strong><b>Patrick Schwabl</b>, Valerie Hase</strong></div>
-      <div class="periodical"><em> In Bernauer, J. (ed.), Doing Quantitative Text Analysis with R: Scraping, Prepar-ing, Visualising and Modelling Data. London: Sage, in press</em>
+      <div class="periodical"><em>In Bernauer, J. &amp; Wohlmann, A. (eds.), Doing Quantitative Text Analysis with R: Scraping, Preparing, Visualising and Modelling Data. London: Sage, in press</em>
       </div>
   </div>
 </div>
@@ -91,6 +91,145 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <abbr class="badge">COMPTEXT25</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Computational ideal point estimation using textual data: a systematic review of existing algorithms</div>
+      <div class="author"><strong><b>Patrick Parschan</b>, Charlott Jakob</strong></div>
+      <div class="periodical"><em>7th International Interdisciplinary Conference on the Quantitative and Computational Analysis of Text-, Image- and Video-as-Data (COMPTEXT), Vienna, 24–26 April 2025</em>
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <abbr class="badge">COMPTEXT25</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Don't Look Up: Evaluating the Tradeoff between Accuracy and Sustainability of LLMs for Text Analysis</div>
+      <div class="author"><strong>Sean Palicki, Isaac Bravo Lara, <b>Patrick Parschan</b>, Benjamin Bevis, Carl Claessen</strong></div>
+      <div class="periodical"><em>7th International Interdisciplinary Conference on the Quantitative and Computational Analysis of Text-, Image- and Video-as-Data (COMPTEXT), Vienna, 24–26 April 2025</em>
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <abbr class="badge">ECREA24</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">A longitudinal analysis of crisis-specific fear speech use in radical and extremist social movements in 2020–2023</div>
+      <div class="author"><strong>Heidi Schulze, Simon Greipl, Julian Hohner, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="periodical"><em>10th European Communication Conference (ECREA), Ljubljana, 24–27 September 2024</em>
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <abbr class="badge">ICA24</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">From Politics to Products: Identifying and Analyzing Advertisements in Far-Right Audio Media</div>
+      <div class="author"><strong>Joshua Greenfield, Robert Dahlke, Josephine Lukito, <b>Patrick Parschan</b>, Maximilian Stecker, Daphne Walter</strong></div>
+      <div class="periodical"><em>74th Annual Conference of the International Communication Association (ICA), Gold Coast, 20–24 June 2024</em>
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <abbr class="badge">ICWSM24</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">"You are doomed!" — Crisis-specific and dynamic use of fear speech in protest and extremist radical social movements</div>
+      <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="periodical"><em>18th International AAAI Conference on Web and Social Media (ICWSM), Buffalo, 3–6 June 2024</em>
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <abbr class="badge">COMPTEXT24</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Echoes of the Reichstag? Decoding Populist Rhetoric Across Eras</div>
+      <div class="author"><strong><b>Patrick Parschan</b>, Sean Palicki, Benjamin Bevis, Carl Claessen</strong></div>
+      <div class="periodical"><em>6th International Interdisciplinary Conference on the Quantitative and Computational Analysis of Text-, Image- and Video-as-Data (COMPTEXT), Amsterdam, 2–4 May 2024</em>
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <abbr class="badge">COMPTEXT24</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">"We are doomed!" Detection of Fear Speech as Radicalization Narrative in Far-Right Communication</div>
+      <div class="author"><strong>Julian Hohner, Simon Greipl, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="periodical"><em>6th International Interdisciplinary Conference on the Quantitative and Computational Analysis of Text-, Image- and Video-as-Data (COMPTEXT), Amsterdam, 2–4 May 2024</em>
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <abbr class="badge">DGPuK24</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">More Crises, More Fear? A (Semi-)Automated Analysis of Fear Speech in the Online Discussions of Radical and Extremist Actors 2020–2022</div>
+      <div class="author"><strong>Heidi Schulze, Simon Greipl, Julian Hohner, <b>Patrick Parschan</b></strong></div>
+      <div class="periodical"><em>69. Jahrestagung der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft (DGPuK), Erfurt, 13–15 March 2024</em>
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <abbr class="badge">CHOC23</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">A Little Less Hate, But a Lot More Harm — Fear Speech as Strategic Borderline Communication</div>
+      <div class="author"><strong>Heidi Schulze, Simon Greipl, Julian Hohner, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="periodical"><em>Conference on Harmful Online Communication (CHOC 2023), Cologne, 16–17 November 2023</em>
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <abbr class="badge">ISD23</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Zwischen Furcht und Feindseligkeit: Narrative Radikalisierungsangebote in Online-Gruppen</div>
+      <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="periodical"><em>Im toten Winkel — Rechtsextreme Radikalisierung im Netz, Berlin, September 2023, Institute for Strategic Dialogue (ISD)</em>
+      </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
@@ -212,13 +351,11 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
-    <!--<img src=" ./assets/img/word_embeddings_for_survey_analysis.png" class="teaser img-fluid z-depth-1">
-             <abbr class="badge">TPAMI</abbr> -->
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://doi.org/10.1007/s42001-024-00283-6">Aligning agent-based testing (ABT) with the experimental research paradigm: a literature review and best practices</a></div>
-      <div class="author"><strong><b>Patrick Parschan</b>, Mario Haim, Julian Unkel</strong></div>
-      <div class="periodical"><em> Journal of Computational Social Science (2024)</em>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Computational Measurement of Political Positions: A Review of Text-Based Ideal Point Estimation Algorithms</div>
+      <div class="author"><strong><b>Patrick Parschan</b>, Charlott Jakob</strong></div>
+      <div class="periodical"><em>Quality &amp; Quantity (under review)</em>
       </div>
   </div>
 </div>
@@ -226,19 +363,49 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: px;">
-    <!--<img src=" ./assets/img/word_embeddings_for_survey_analysis.png" class="teaser img-fluid z-depth-1">
-             <abbr class="badge">TPAMI</abbr> -->
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://doi.org/10.51685/jqd.2024.icwsm.8">"You are doomed!" Crisis-specific and Dynamic Use of Fear Speech in Protest and Extremist Radical Social Movements</a></div>
-      <div class="author"><strong>Mario Haim, Julian Unkel Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
-      <div class="periodical"><em>Journal of Quantitative Description: Digital Media (2024)</em>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://doi.org/10.1007/s42001-024-00283-6">Aligning agent-based testing (ABT) with the experimental research paradigm: a literature review and best practices</a></div>
+      <div class="author"><strong><b>Patrick Parschan</b>, Mario Haim, Julian Unkel</strong></div>
+      <div class="periodical"><em>Journal of Computational Social Science, 7, 1625–1644 (2024)</em>
       </div>
   </div>
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://doi.org/10.51685/jqd.2024.icwsm.8">"You are doomed!" Crisis-specific and Dynamic Use of Fear Speech in Protest and Extremist Radical Social Movements</a></div>
+      <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="periodical"><em>Journal of Quantitative Description: Digital Media, 4 (2024)</em>
+      </div>
+  </div>
+</div>
+</li>
+
+</ol>
+</div>
+
+### Conference proceedings (under review)
+
+<div class="publications">
+<ol class="bibliography">
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">PolBiX: Detecting LLMs' Political Bias in Fact-Checking through X-phemisms</div>
+      <div class="author"><strong>Charlott Jakob, David Harbecke, <b>Patrick Parschan</b>, Paul Wenzel, Verena Schmitt</strong></div>
+      <div class="periodical"><em>63rd Annual Meeting of the Association for Computational Linguistics (ACL, under review)</em>
+      </div>
+  </div>
+</div>
+</li>
 </ol>
 </div>
 
@@ -398,14 +565,13 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ### Honorary offices
 
-- Student and early career preresentative, [Computational Methods Division](https://www.icahdq.org/group/compmethds) of the International Communication Association
+- Student and early career representative (2022–2024), [Computational Methods Division](https://www.icahdq.org/group/compmethds) of the International Communication Association
 
 ### Conference Reviewer
 
-- [International Communication Association conference 2024](https://www.icahdq.org/mpage/ica24)
-- [International Communication Association conference 2023](https://www.icahdq.org/mpage/ICA23)
-- [Jahrestagung der Fachgruppe Methoden der DGPuK 2022](https://www.dgpuk.de/de/methoden-der-publizistik-und-kommunikationswissenschaft.html)
-- [International Communication Association conference 2022](https://www.icahdq.org/page/ICA2022)
+- [International Communication Association conference](https://www.icahdq.org/) (ICA): 2022, 2023, 2024
+- [International Interdisciplinary Conference on the Quantitative and Computational Analysis of Text-, Image- and Video-as-Data](https://www.comptextconference.org/) (COMPTEXT): 2023, 2024, 2025
+- [Jahrestagung der Fachgruppe Methoden der DGPuK](https://www.dgpuk.de/de/methoden-der-publizistik-und-kommunikationswissenschaft.html) (DGPuK Methods Conference): 2022
 
 ### Other
 
