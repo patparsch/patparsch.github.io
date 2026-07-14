@@ -42,3 +42,4 @@ Not every session follows a fixed topic — you are welcome to bring your own co
 | 2026-01-28 | newsflow project | Philipp Mendoza |
 | 2026-06-17 | GESIS Methods Hub | Christina Viehmann |
 | 2026-07-08 | Using the M3 API for news media analysis | Tizian Dippold |
+| 2026-07-15 | Measuring crisis rhetoric using political speech data | Lukas Hetzer |
