@@ -14,8 +14,8 @@ description: Patrick Parschan is a doctoral researcher at LMU Munich working on 
 enable_mpi_logo: no
 
 # Links
-google_scholar: https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl
-cv_link: https://github.com/patparsch/patparsch.github.io/blob/main/assets/files/CV_Parschan.pdf
+google_scholar: https://scholar.google.com/citations?user=0xjiQ2YAAAAJ
+cv_link: /assets/files/CV_Parschan.pdf
 github_link: https://github.com/patparsch
 linkedin: https://www.linkedin.com/in/patrick-parschan-6b732a270/
 bluesky: https://bsky.app/profile/patrickparschan.bsky.social
@@ -48,3 +48,5 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - CNAME
+  - tools/
+  - assets/files/CV_Parschan.md
