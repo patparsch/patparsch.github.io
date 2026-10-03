@@ -4,3 +4,115 @@
 @import "minimal-light";
 
 $background-color: #292929;
+
+/* A brighter, editorial layout inspired by contemporary academic homepages. */
+:root {
+  color-scheme: light;
+  --ink: #182b3a;
+  --muted: #596b78;
+  --accent: #087e83;
+  --accent-dark: #075f65;
+  --line: #dce5e8;
+  --paper: #ffffff;
+  --canvas: #f2f6f6;
+}
+
+html { scroll-behavior: smooth; scroll-padding-top: 1.5rem; }
+body { background: var(--canvas); color: var(--ink); font: 17px/1.72 "Crimson Pro", Georgia, serif; padding: 0; }
+.wrapper {
+  box-sizing: border-box; display: grid; grid-template-columns: 250px minmax(0, 1fr);
+  column-gap: clamp(2rem, 5vw, 5rem); width: min(1180px, calc(100% - 64px));
+  margin: 42px auto; padding: 0;
+}
+header {
+  box-sizing: border-box; float: none; grid-column: 1; grid-row: 1; position: sticky;
+  top: 32px; align-self: start; width: auto; padding: 30px 22px 26px; text-align: left;
+  background: var(--paper); border: 1px solid var(--line); border-radius: 16px;
+  box-shadow: 0 12px 34px rgba(25, 54, 68, .055);
+}
+.image.avatar { display: block; width: 100%; margin: 0 0 22px; text-align: center; }
+.image.avatar img {
+  box-sizing: border-box; width: 148px; height: 148px; padding: 0; object-fit: cover;
+  border: 4px solid #e4f1ef;
+}
+header h1 { margin: 0 0 8px; color: var(--ink); font: 600 1.8rem/1.15 "Crimson Pro", Georgia, serif; letter-spacing: -.02em; }
+header position, header autocolor { display: inline-block; color: var(--muted); font-size: 1rem !important; line-height: 1.45; }
+header position, header > a:not(.image) { display: block; }
+header > a:not(.image) { display: inline-block; margin-top: 8px; color: var(--accent-dark); font-size: .96rem; line-height: 1.4; }
+email { display: inline-block; margin-top: 10px; color: var(--muted); font: 500 .82rem/1.5 "Ubuntu Mono", monospace; }
+.social-icons { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+.social-icons a, .social-icons a.social-label {
+  box-sizing: border-box; display: inline-flex; align-items: center; justify-content: center;
+  width: 38px; height: 38px; margin: 0 !important; border: 1px solid var(--line);
+  border-radius: 50%; background: #fff; color: var(--accent-dark) !important; font-size: 1rem;
+  line-height: 1; text-decoration: none; transition: background-color .18s ease, color .18s ease, transform .18s ease;
+}
+.social-icons a.social-label { font: 600 .67rem/1 "Ubuntu Mono", monospace; letter-spacing: -.05em; }
+.social-icons a:hover { transform: translateY(-2px); background: var(--accent-dark); color: #fff !important; }
+section {
+  box-sizing: border-box; float: none; grid-column: 2; grid-row: 1 / 3; width: auto; min-width: 0;
+  padding: clamp(28px, 5vw, 62px) clamp(28px, 6vw, 76px); background: var(--paper);
+  border: 1px solid var(--line); border-radius: 16px; box-shadow: 0 12px 34px rgba(25, 54, 68, .055);
+}
+main > h2:first-child { margin-top: 0; }
+h1, h2, h3, h4, h5, h6 { color: var(--ink); font-family: "Crimson Pro", Georgia, serif; font-weight: 600; line-height: 1.2; }
+h2 { margin: 2.7rem 0 1.1rem; padding-bottom: .55rem; border-bottom: 1px solid var(--line); font-size: 1.8rem; letter-spacing: -.015em; }
+h3 { margin: 1.9rem 0 .7rem; color: var(--accent-dark); font-size: 1.35rem; }
+p, ul, ol, table, pre, dl { margin-bottom: 1.15rem; }
+p, li { color: #314554; }
+li { margin-bottom: .42rem; padding-left: .1rem; }
+a { color: var(--accent-dark); text-decoration-color: rgba(7, 95, 101, .28); text-underline-offset: .16em; }
+a:hover { color: #033f44; text-decoration-color: currentColor; }
+a:focus-visible { outline: 3px solid #e0a74c; outline-offset: 3px; border-radius: 3px; }
+strong, papertitle { color: var(--ink); font-weight: 600; }
+blockquote { margin: 1rem 0 1.4rem; padding: .15rem 0 .15rem 1rem; border-left: 3px solid #79b8b2; color: var(--muted); }
+.site-nav {
+  position: sticky; top: 0; z-index: 5; margin: -12px 0 34px; padding: 12px 0;
+  background: rgba(255, 255, 255, .94); border-bottom: 1px solid var(--line); backdrop-filter: blur(10px);
+}
+.site-nav ul { display: flex; flex-wrap: wrap; gap: 6px; margin: 0; }
+.site-nav a {
+  margin: 0; padding: 7px 11px; border: 1px solid transparent; border-radius: 999px;
+  color: var(--muted); font: 500 .85rem/1.2 "Crimson Pro", Georgia, serif;
+  transition: color .18s ease, background-color .18s ease, border-color .18s ease;
+}
+.site-nav a:hover, .site-nav a.active { border-color: #c7e0dd; background: #edf7f5; color: var(--accent-dark); }
+.site-nav a.active { font-weight: 600; }
+.pub-row { align-items: flex-start; gap: 12px; padding: 14px 0; border-bottom: 1px solid #edf1f2; }
+.publications ol { padding-left: 1.45rem; }
+.publications li::marker { color: #8aa4aa; font: 500 .9rem "Ubuntu Mono", monospace; }
+.pub-row .title { margin-bottom: 4px; color: var(--ink); font-size: 1.08rem; font-weight: 600; line-height: 1.35; }
+.pub-row .author, .pub-row .periodical { color: var(--muted); font-size: .96rem; line-height: 1.45; }
+.badge { border: 1px solid #d8e9e6; border-radius: 999px; background: #eff7f5; color: var(--accent-dark); font: 500 .72rem/1.4 "Ubuntu Mono", monospace; }
+footer { box-sizing: border-box; float: none; grid-column: 1; grid-row: 2; position: static; width: auto; align-self: end; padding: 14px 18px 0; text-align: left; }
+footer a autocolor { color: var(--muted); }
+
+@media screen and (max-width: 900px) {
+  .wrapper { grid-template-columns: 215px minmax(0, 1fr); column-gap: 24px; width: calc(100% - 36px); margin: 18px auto; }
+  header { padding: 24px 18px; }
+  section { padding: 28px; }
+}
+@media screen and (max-width: 680px) {
+  .wrapper { display: block; width: 100%; margin: 0; }
+  header {
+    position: static; display: grid; grid-template-columns: 96px minmax(0, 1fr); column-gap: 18px;
+    align-items: center; padding: 22px 20px 18px; border-width: 0 0 1px; border-radius: 0; box-shadow: none;
+  }
+  .image.avatar { grid-column: 1; grid-row: 1 / 6; width: 96px; margin: 0; }
+  .image.avatar img { width: 92px; height: 92px; }
+  header h1, header position, header > a:not(.image), header email, header .social-icons { grid-column: 2; }
+  header h1 { margin: 0 0 4px; font-size: 1.55rem; }
+  header position, header > a:not(.image) { margin: 0; font-size: .9rem !important; }
+  header email { margin-top: 4px; font-size: .74rem; }
+  .social-icons { margin-top: 9px; }
+  .social-icons a { width: 32px; height: 32px; }
+  section { padding: 18px 21px 44px; border-width: 0; border-radius: 0; box-shadow: none; }
+  .site-nav { top: 0; margin: 0 -21px 28px; padding: 9px 18px; }
+  .site-nav ul { gap: 2px; }
+  .site-nav a { padding: 7px 9px; font-size: .8rem; }
+  footer { padding: 0 21px 22px; text-align: center; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition-duration: .01ms !important; }
+}

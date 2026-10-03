@@ -2,17 +2,84 @@
 layout: homepage
 ---
 
-## Welcome!
-My name is Patrick, I am currently a Ph.D. candidate in [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) at the Department of Media and Communication at [Ludwig-Maximilians University](https://www.lmu.de/en/) in Germany.
-My Ph.D. thesis is supervised my [Prof. Mario Haim](https://www.en.ifkw.uni-muenchen.de/staff/full_professors/haim_mario/index.html) and [Prof. Barbara Plank](https://www.cis.uni-muenchen.de/personen/professoren/bplank/index.html).  
-In my thesis I use deep learning methods to find valid numerical measurments of political positions from textual data.
+## About
 
+I am a doctoral researcher in [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) at the [Department of Media and Communication](https://www.en.ifkw.uni-muenchen.de/index.html), [LMU Munich](https://www.lmu.de/en/). My work connects software and research infrastructure with computational methods for studying communication and society.
 
-## Research Interests
+My dissertation, supervised by [Prof. Mario Haim](https://www.en.ifkw.uni-muenchen.de/staff/full_professors/haim_mario/index.html) and [Prof. Barbara Plank](https://www.cis.uni-muenchen.de/personen/professoren/bplank/index.html), compares computational approaches to estimating political positions from text. I am currently developing an experimental framework for comparing 17 text-scaling methods; the dissertation is planned for submission in March 2027.
 
-- **Spatial models of politics:** political position embeddings, text as data, measurment validity
-- **Natural Language Processing:** transformers, contextualized word embeddings, multimodal embeddings
-- **Algorithmic Curation:** search engine results during elections, agent-based testing
+Alongside my research, I design and teach courses in programming, data analysis and AI. I enjoy helping students move from understanding code to building, testing and evaluating complete systems.
+
+<a id="research"></a>
+## Research
+
+My research focuses on how computational and AI-based methods can be compared, reproduced and used responsibly. It brings together three areas:
+
+- **Text analysis and political measurement:** how statistical, embedding-based and large language model (LLM) methods represent political positions, and how the validity of those measurements can be assessed.
+- **Reliable AI and software evaluation:** how models, prompts, versions and system configurations affect quality, reproducibility, errors and computational cost.
+- **Computational communication research:** how search, generative AI and algorithmic systems shape the information people encounter.
+
+### Research software and infrastructure
+
+At [Munich Media Monitoring (M3)](https://m3.ifkw.lmu.de/), I help develop and operate research infrastructure for large-scale collection and computational analysis of media content. My work includes database architecture, API design, CI/CD and AI-based analysis pipelines, and GPU computing infrastructure. The production stack includes SQL, Docker, Argo CD, Kafka and RabbitMQ.
+
+For my dissertation, I built an experiment framework that brings 17 text-scaling methods together across different languages and runtime environments. It records configurations and supports systematic comparisons of model outputs, errors and compute requirements. I am also developing a comparison tool for AI and machine-learning algorithms.
+
+### Teaching and software development
+
+I teach programming and data analysis alongside machine learning, NLP and AI. My teaching connects core concepts to practical development work: students build and explain solutions, use version control and tests, and learn to inspect AI-generated code for correctness, maintainability and security. I have taught in German and English, designed asynchronous online teaching, and organized contributions from practitioners in media and technology.
+
+My technical work spans Python, R, JavaScript, C++, SQL, APIs, databases, containers and CI/CD. My social-science training helps me connect engineering decisions to questions of measurement, validity and real-world use.
+
+### Selected teaching
+
+- **2026/27:** Seminar on political communication and AI; planned sessions on AI-assisted programming and statistical programming with Positron and Posit Assistant.
+- **2026:** Data analysis with R (LMU Munich).
+- **2025/26:** *AI meets political communication: How humans and machines interpret political positions* (designed and taught at LMU Munich).
+- **2024/25:** Scientific working and an English-language seminar on AI and machine learning for analysing financial and economic news.
+- **2023/24:** *Artificial intelligence – a look under the hood and applications in practice*, with guest contributions from media and technology organisations.
+- **2018–2021:** Introductory statistics and data-analysis seminars in R and SPSS at the University of Regensburg; an R course independently redesigned for asynchronous online teaching during 2020/21.
+
+I have also designed workshops in machine learning and AI-assisted programming for doctoral researchers and postdocs, and supervised bachelor’s and master’s theses on computational text analysis and generative AI. The complete teaching history appears below.
+
+### Selected software projects
+
+- **Text-scaling experiment framework:** shared infrastructure for running and comparing 17 statistical, embedding-based and LLM-based approaches to estimating political positions from text.
+- **AI and machine-learning comparison tool:** a tool in development for comparing algorithms and their configurations.
+- **Munich Media Monitoring:** research infrastructure for collecting and analysing media at scale, developed and operated in a multidisciplinary team.
+
+## Recent work
+
+- **2026 · KONVENS:** *Making Political Text Scaling Comparable: Infrastructure and Hyperparameter Sensitivity for 17 Algorithms*, forthcoming in the KONVENS workshop proceedings. [Preprint](https://doi.org/10.48550/arXiv.2609.17602)
+- **2026 · SEASON:** *Using generative AI instead of search engines? Comparison and implications in the context of five state elections in Germany*. [Conference paper](https://doi.org/10.48441/4427.3715)
+- **2026 · ECREA:** *Measuring party positions from campaign tweets: What 17 text-scaling methods (do not) agree on*, presented at the conference pre-conference on the evolution of election campaigning on social media.
+- **2026 · AANZCA (accepted):** Co-author on *Children’s Information Environments and Right to Information in the Wake of Social Media Age Restrictions* and *Ok Google, Who Should I Vote for in the Next Election?*, to be presented in Perth in November.
+- **2025 · EMNLP Findings:** Co-author of *PolBiX: Detecting LLMs’ Political Bias in Fact-Checking through X-phemisms*.
+
+### Selected presentations
+
+- **2026 · DACH-CSS, Vienna:** *The Ideological Machine: From Statistical Language Models to Large Language Models in Text-Based Political Position Estimation*.
+- **2026 · DGPuK, Dortmund:** Munich Media Monitoring (M3), with Mario Haim.
+- **2025 · COMPTEXT, Vienna:** *Computational ideal point estimation using textual data: a systematic review of existing algorithms*, with Charlott Jakob.
+- **2023 · ICA, Toronto:** *From auditing to testing: Adequate experimental designs to study algorithmic content curation*, with Mario Haim and Julian Unkel.
+
+## Research interests
+
+- Political position estimation, text as data and measurement validity
+- Natural language processing, transformers, word embeddings and large language models
+- Reproducibility and evaluation of AI systems and software
+- Algorithmic curation, search engines and generative AI in public communication
+- Computational social science and agent-based testing
+
+## Academic background
+
+I hold an M.A. in Digital Humanities from the University of Regensburg (2021), where my thesis evaluated transformer models for classifying information needs in cooking dialogues. I also hold a B.A. in Political Science with a minor in History (2019) and completed 40 ECTS of university IT training, including programming, software development, machine learning and data analysis. Before joining LMU, I worked in political science at the University of Regensburg (2019–2021) and on the SPARTA project at the Bundeswehr University Munich (2021).
+
+My academic training combines empirical social research with hands-on programming and software development. I have also completed university teaching development in course design, assessment, advising and evaluation, and research stays at the University of Vienna and the Hebrew University of Jerusalem.
+
+<a id="publications"></a>
+
+*My earlier publications and conference contributions appear under the name Patrick Schwabl; author names below follow the published records.*
 
 <!-- ## News
 
@@ -55,7 +122,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
       <div class="title"><a href="https://doi.org/10.1007/s42001-024-00283-6">Aligning agent-based testing (ABT) with the experimental research paradigm: a literature review and best practices</a></div>
-      <div class="author"><strong><b>Patrick Parschan</b>, Mario Haim, Julian Unkel</strong></div>
+      <div class="author"><strong><b>Patrick Schwabl</b>, Mario Haim, Julian Unkel</strong></div>
       <div class="periodical"><em>Journal of Computational Social Science, 7, 1625–1644 (2024)</em>
       </div>
   </div>
@@ -66,7 +133,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
       <div class="title"><a href="https://doi.org/10.51685/jqd.2024.icwsm.8">"You are doomed!" Crisis-specific and Dynamic Use of Fear Speech in Protest and Extremist Radical Social Movements</a></div>
-      <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Schwabl</b>, Diana Rieger</strong></div>
       <div class="periodical"><em>Journal of Quantitative Description: Digital Media, 4 (2024)</em>
       </div>
   </div>
@@ -77,6 +144,8 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 </div>
 
 ### Conference proceedings
+
+- **Parschan**, P. (2026, forthcoming). *Making Political Text Scaling Comparable: Infrastructure and Hyperparameter Sensitivity for 17 Algorithms.* Proceedings of the 21st Conference on Natural Language Processing (KONVENS), Volume 2: Workshops. [Preprint](https://doi.org/10.48550/arXiv.2609.17602).
 
 <div class="publications">
 <ol class="bibliography">
@@ -107,7 +176,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 0px;">
       <div class="title">Python for Text-as-Data: Using Word Embeddings to Assess the Diversity of Election-Related Search Queries</div>
       <div class="author"><strong><b>Patrick Schwabl</b>, Valerie Hase</strong></div>
-      <div class="periodical"><em>In Bernauer, J. &amp; Wohlmann, A. (eds.), Doing Quantitative Text Analysis with R: Scraping, Preparing, Visualising and Modelling Data. London: Sage, in press</em>
+      <div class="periodical"><em>In Bernauer, J. &amp; Wohlmann, A. (eds.), Doing Quantitative Text Analysis with R: Scraping, Preparing, Visualising and Modelling Data. London: Sage, 2025</em>
       </div>
   </div>
 </div>
@@ -162,7 +231,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">A longitudinal analysis of crisis-specific fear speech use in radical and extremist social movements in 2020–2023</div>
-      <div class="author"><strong>Heidi Schulze, Simon Greipl, Julian Hohner, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="author"><strong>Heidi Schulze, Simon Greipl, Julian Hohner, <b>Patrick Schwabl</b>, Diana Rieger</strong></div>
       <div class="periodical"><em>10th European Communication Conference (ECREA), Ljubljana, 24–27 September 2024</em>
       </div>
   </div>
@@ -176,7 +245,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">From Politics to Products: Identifying and Analyzing Advertisements in Far-Right Audio Media</div>
-      <div class="author"><strong>Joshua Greenfield, Robert Dahlke, Josephine Lukito, <b>Patrick Parschan</b>, Maximilian Stecker, Daphne Walter</strong></div>
+      <div class="author"><strong>Joshua Greenfield, Robert Dahlke, Josephine Lukito, <b>Patrick Schwabl</b>, Maximilian Stecker, Daphne Walter</strong></div>
       <div class="periodical"><em>74th Annual Conference of the International Communication Association (ICA), Gold Coast, 20–24 June 2024</em>
       </div>
   </div>
@@ -190,7 +259,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">"You are doomed!" — Crisis-specific and dynamic use of fear speech in protest and extremist radical social movements</div>
-      <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Schwabl</b>, Diana Rieger</strong></div>
       <div class="periodical"><em>18th International AAAI Conference on Web and Social Media (ICWSM), Buffalo, 3–6 June 2024</em>
       </div>
   </div>
@@ -204,7 +273,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">Echoes of the Reichstag? Decoding Populist Rhetoric Across Eras</div>
-      <div class="author"><strong><b>Patrick Parschan</b>, Sean Palicki, Benjamin Bevis, Carl Claessen</strong></div>
+      <div class="author"><strong><b>Patrick Schwabl</b>, Sean Palicki, Benjamin Bevis, Carl Claessen</strong></div>
       <div class="periodical"><em>6th International Interdisciplinary Conference on the Quantitative and Computational Analysis of Text-, Image- and Video-as-Data (COMPTEXT), Amsterdam, 2–4 May 2024</em>
       </div>
   </div>
@@ -218,7 +287,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">"We are doomed!" Detection of Fear Speech as Radicalization Narrative in Far-Right Communication</div>
-      <div class="author"><strong>Julian Hohner, Simon Greipl, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="author"><strong>Julian Hohner, Simon Greipl, Heidi Schulze, <b>Patrick Schwabl</b>, Diana Rieger</strong></div>
       <div class="periodical"><em>6th International Interdisciplinary Conference on the Quantitative and Computational Analysis of Text-, Image- and Video-as-Data (COMPTEXT), Amsterdam, 2–4 May 2024</em>
       </div>
   </div>
@@ -232,7 +301,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">More Crises, More Fear? A (Semi-)Automated Analysis of Fear Speech in the Online Discussions of Radical and Extremist Actors 2020–2022</div>
-      <div class="author"><strong>Heidi Schulze, Simon Greipl, Julian Hohner, <b>Patrick Parschan</b></strong></div>
+      <div class="author"><strong>Heidi Schulze, Simon Greipl, Julian Hohner, <b>Patrick Schwabl</b></strong></div>
       <div class="periodical"><em>69. Jahrestagung der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft (DGPuK), Erfurt, 13–15 March 2024</em>
       </div>
   </div>
@@ -246,7 +315,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">A Little Less Hate, But a Lot More Harm — Fear Speech as Strategic Borderline Communication</div>
-      <div class="author"><strong>Heidi Schulze, Simon Greipl, Julian Hohner, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="author"><strong>Heidi Schulze, Simon Greipl, Julian Hohner, <b>Patrick Schwabl</b>, Diana Rieger</strong></div>
       <div class="periodical"><em>Conference on Harmful Online Communication (CHOC 2023), Cologne, 16–17 November 2023</em>
       </div>
   </div>
@@ -260,7 +329,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 12px;">
       <div class="title">Zwischen Furcht und Feindseligkeit: Narrative Radikalisierungsangebote in Online-Gruppen</div>
-      <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Parschan</b>, Diana Rieger</strong></div>
+      <div class="author"><strong>Simon Greipl, Julian Hohner, Heidi Schulze, <b>Patrick Schwabl</b>, Diana Rieger</strong></div>
       <div class="periodical"><em>Im toten Winkel — Rechtsextreme Radikalisierung im Netz, Berlin, September 2023, Institute for Strategic Dialogue (ISD)</em>
       </div>
   </div>
@@ -506,6 +575,24 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ## University teaching & other courses
 
+<a id="teaching"></a>
+
+### Courses and workshops (2022–2026)
+
+- **2026/27 · LMU Munich:** Seminar on political communication in the age of AI, including planned practical sessions on AI-assisted programming and data analysis.
+- **2026 · LMU Munich:** Data analysis with R.
+- **2025/26 · LMU Munich:** *AI meets political communication: How humans and machines interpret political positions* (designed and taught).
+- **2025 · ICA pre-conference hackathon:** Workshop on Cursor and AI-assisted programming for doctoral researchers and postdocs.
+- **2024/25 · LMU Munich:** Scientific working; *How money talks: Stock market and economic news analysis with artificial intelligence and machine learning in communication research* (English, designed and taught).
+- **2023/24 · LMU Munich:** *Artificial intelligence – a look under the hood and applications in practice* (English, designed and taught; practitioner contributions from media and technology organisations).
+- **2023 · ICA pre-conference hackathon:** Introductory machine-learning course for doctoral researchers and postdocs.
+
+### Supervision and academic development
+
+I have supervised five bachelor’s theses since 2022 and three master’s theses since 2023. Topics include word-embedding analysis of party manifestos and bias in generative AI. Since October 2025, I have been a mentee in the OTH Regensburg [Academic Steps](https://www.oth-regensburg.de/academic-steps) programme, which prepares researchers for professorships at universities of applied sciences. I also completed university teaching certificates covering course design, assessment, student advising and evaluation.
+
+### Earlier university teaching
+
 - Crash course introduction to machine learning at the [preconference hackathon](https://www.hackingcommsci.org/) during [ICA 2023](https://www.icahdq.org/mpage/ICA23)
 - Introduction to data analysis with SPSS at [LMU Munich](https://www.lmu.de/de/index.html), 2023
 - Political communication during the Ukraine war at [LMU Munich](https://www.lmu.de/de/index.html), 2022
@@ -526,12 +613,15 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 - [International Communication Association conference](https://www.icahdq.org/) (ICA): 2022, 2023, 2024
 - [International Interdisciplinary Conference on the Quantitative and Computational Analysis of Text-, Image- and Video-as-Data](https://www.comptextconference.org/) (COMPTEXT): 2023, 2024, 2025
 - [Jahrestagung der Fachgruppe Methoden der DGPuK](https://www.dgpuk.de/de/methoden-der-publizistik-und-kommunikationswissenschaft.html) (DGPuK Methods Conference): 2022
+- *Quality & Quantity* (journal); ICA: 2025
 
 ### Other
 
-I co-host and organize the in-person **[Computational Exchange on Wednesday](computational_exchange.html)** coding club at LMU. See the dedicated page for details, past sessions, and how to join.
+I host and organize the in-person **[Computational Exchange](computational_exchange.html)** at LMU, a coding and methods workshop that meets three times per semester. I also co-organized the pre-conference hackathons at ICA in 2024 and 2025 and joined the organizing team in 2026.
+
+I am a member of the International Communication Association, the COMPTEXT Association and the German Nachwuchsgesellschaft für Politik- und Sozialwissenschaft (DNGPS). At LMU, I contribute to the Mittelbau and to a working group on regulations for cumulative dissertations.
 
 ## Funding and scholarships
 
-- 3000€ per year for four years as part of the bidt your talents program by the [Bavarian Research Institute for Digital Transformation](https://en.bidt.digital/)
-- 2000€ for a research stay in Isreal by the [Bavarian Research Alliance](https://www.bayfor.org/en/)
+- **Young Talents programme, Bavarian Research Institute for Digital Transformation (bidt):** €12,000 doctoral funding over four years.
+- **Research travel:** €2,000 from the Bavarian Research Alliance for a research stay in Israel and €1,000 through the Erasmus programme for a research stay in Vienna.
